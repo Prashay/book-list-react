@@ -1,0 +1,40 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.badge-warning{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  background-color: red;
+}
+.text-color{
+  color: white;
+}
+.header-white{
+  color: white;
+}
+.submit-form,.edit-form{
+  color: white;
+  background-color: #0000007a;
+  padding: 10px;
+  border-radius: 11px;
+}
+.bookbag{
+  color: white;
+  background-color: #0000007a;
+  padding: 10px;
+  border-radius: 11px;
+}
+.bg-1{
+  background-color: red;
+}
